@@ -1,5 +1,7 @@
 ## OwO
 
+For hackathon repos, please navigate to the organizations below my profile info.
+
 <!--
 **PaigeTurcsanyi/PaigeTurcsanyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
